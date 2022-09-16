@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.Galeria" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#FFD180</item>
-        <item name="colorPrimaryVariant">#FFD180</item>
+        <item name="colorPrimary">#14847e</item>
+        <item name="colorPrimaryVariant">#14847e</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">#A7FFEB</item>
